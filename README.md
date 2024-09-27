@@ -1,7 +1,7 @@
 
 # Base64-GUI
 
-Simple implementation of a Base64 converter with a graphical interface. Needs Pillow library installed.
+Simple implementation of a Base64 converter with a graphical interface. (Needs Pillow)
 
 
 ## Pillow Installation
